@@ -52,10 +52,15 @@
     "ember-source": "~3.1.0",
     "ember-welcome-page": "^3.0.0",
     "eslint-plugin-ember": "^5.0.0",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.5.1",
     "loader.js": "^4.2.3",
     "sass": "^1.27.0"
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
+  },
+  "dependencies": {
+    "ember-template-lint": "^2.14.0"
   }
 }

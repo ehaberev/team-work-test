@@ -7,5 +7,6 @@ export default Route.extend({
     a = '1';
 
     console.log('asdfsd');
+    var b = 3;
   }
 });
